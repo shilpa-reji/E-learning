@@ -1,0 +1,15 @@
+{
+    "something": "Oops!, Something went wrong",
+    "authAPI": {
+        "success": "Success",
+        "error": "Error",
+        "errorCode": "400",
+        "codeSuccess": "200",
+        "auth_failed": "Authorization failed",
+        "courseCreated":"course created successfully!!",
+        "email_already_exist":"EmailId already Exist",
+        "phoneNo_already_exist":"Phone Number already Exist"
+        
+
+    }
+}
